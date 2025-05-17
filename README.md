@@ -1,2 +1,2 @@
-# Spring-Project
-This is my first spring project 
+# Spring Project
+This is my first spring project
